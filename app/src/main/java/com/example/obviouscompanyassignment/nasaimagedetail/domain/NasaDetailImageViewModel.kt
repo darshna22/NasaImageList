@@ -17,8 +17,8 @@ class NasaDetailImageViewModel @Inject constructor(private val nasaImageReposito
         }
     }
 
-    fun nasaImageListData(): LiveData<DataResult<List<NasaImageResponseItem>>> {
-        return nasaImageRepository.nasaImageDataList
-    }
+//    fun nasaImageListData(): LiveData<DataResult<List<NasaImageResponseItem>>> {
+//        return nasaImageRepository.nasaImageDataList
+//    }
 
 }

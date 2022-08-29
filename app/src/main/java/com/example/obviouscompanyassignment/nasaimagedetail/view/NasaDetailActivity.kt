@@ -31,7 +31,7 @@ class NasaDetailActivity : AppCompatActivity() {
             .activityModule(ActivityModule(this))
             .build()
         activityComponent.inject(this)
-        val viewPagerAdapter = NasaImageViewPagerAdapter(this, sortedList!!)
+        val viewPagerAdapter = NasaImageViewPagerAdapter(this, sortedList)
         viewPager.adapter = viewPagerAdapter
         viewPager.currentItem = clickImagePosition
         dotsIndicator.attachTo(viewPager)

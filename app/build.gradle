@@ -40,7 +40,6 @@ dependencies {
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
-   // implementation 'com.google.code.gson:gson:2.8.6'
     implementation 'com.squareup.picasso:picasso:2.5.0'
     implementation("com.tbuonomo:dotsindicator:4.3")
 
@@ -54,6 +53,10 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0-rc01'
     implementation "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1"
 
+    testImplementation 'org.mockito:mockito-core:2.22.0'
+    androidTestImplementation "org.mockito:mockito-android:2.22.0"
+    testImplementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.4.2'
+    testImplementation 'android.arch.core:core-testing:1.1.1'
 
     //retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'

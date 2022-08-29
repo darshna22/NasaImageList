@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Obvious Company Assignment</string>
+    <string name="app_name">Obvious Assignment</string>
     <string name="todo">TODO</string>
+    <string name="data_not_available">Data not available</string>
+    <string name="data_not_found_msg">Data not found</string>
+    <string name="data_loading_msg">Data is Loading...</string>
+    <string name="try_later_msg">We are facing some issue kindly try again later!</string>
+    <string name="internet_not_available_msg">Internet not available</string>
 </resources>
