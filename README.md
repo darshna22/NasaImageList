@@ -15,8 +15,8 @@
 
 ## APP Snapshots:
 ![](app/doc/1.png)
-![](doc/2.png)
-![](doc/3.png)
+![](app/doc/2.png)
+![](app/doc/3.png)
 
 
 
