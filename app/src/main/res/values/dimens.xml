@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dot_radius">8dp</dimen>
+    <dimen name="dot_size">16dp</dimen>
+    <dimen name="dot_indicator_margin_bottom">30dp</dimen>
+    <dimen name="dot_spacing">4dp</dimen>
+    <dimen name="dot_stroke_width">2dp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="progress_size">50dp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+</resources>

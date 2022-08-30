@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.obviouscompanyassignment.R
 import com.example.obviouscompanyassignment.nasalist.data.apimodel.NasaImageResponseItem
 import com.example.obviouscompanyassignment.nasaimagedetail.view.NasaDetailActivity
+import com.example.obviouscompanyassignment.utility.Constants
 import com.squareup.picasso.Callback
 import com.squareup.picasso.Picasso
 import java.io.Serializable
@@ -39,10 +40,9 @@ class NasaGridImageAdapter(var context: NasaGridActivity) :
         setImage(holder, nasaImageResponseItem)
         holder.imageView.setOnClickListener {
             val intent = Intent(context, NasaDetailActivity::class.java)
-            intent.putExtra("list", list as Serializable)
-            intent.putExtra("position", position)
+            intent.putExtra(Constants.IMAGE_LIST, list as Serializable)
+            intent.putExtra(Constants.IMAGE_CLICK_POSITION, position)
             context.startActivity(intent)
-            //context.overridePendingTransition(R.anim.slide_out_bottom, R.anim.slide_in_bottom)
         }
     }
 

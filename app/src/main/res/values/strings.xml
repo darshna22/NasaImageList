@@ -6,4 +6,7 @@
     <string name="data_loading_msg">Data is Loading...</string>
     <string name="try_later_msg">We are facing some issue kindly try again later!</string>
     <string name="internet_not_available_msg">Internet not available</string>
+    <string name="image_date">Image Date:</string>
+    <string name="copyright">CopyRight:</string>
+    <string name="description">Description:</string>
 </resources>

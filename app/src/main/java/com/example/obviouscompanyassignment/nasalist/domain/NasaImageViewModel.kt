@@ -20,7 +20,6 @@ class NasaImageViewModel @Inject constructor(private val nasaImageRepository: Na
     fun fetchNasaImageListData() {
         viewModelScope.launch {
             try {
-
                 _ImageList.value = DataResult.Loading
                 val list = nasaImageRepository.fetchNasaImageData()
                 _ImageList.value = DataResult.Success(list)

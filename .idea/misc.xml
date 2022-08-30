@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/c5141506/StudioProjects/ObviousCompanyAssignment/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/c5141506/StudioProjects/ObviousCompanyAssignment/app/src/main/res/layout/activity_nasa_grid_image.xml" value="0.1" />
+        <entry key="..\:/Users/c5141506/StudioProjects/ObviousCompanyAssignment/app/src/main/res/layout/nasa_grid_image_raw.xml" value="0.1" />
+        <entry key="..\:/Users/c5141506/StudioProjects/ObviousCompanyAssignment/app/src/main/res/layout/nasa_pager_image_raw.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.15185185185185185" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/activity_nasa_grid_image.xml" value="0.18256410256410258" />

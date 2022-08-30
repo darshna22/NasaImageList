@@ -17,7 +17,7 @@ import com.squareup.picasso.Callback
 import com.squareup.picasso.Picasso
 import java.util.*
 
-class NasaImageViewPagerAdapter(val context: Context, val imageList: List<NasaImageResponseItem>) :
+class NasaImageViewPagerAdapter(private val context: Context, private val imageList: List<NasaImageResponseItem>) :
     PagerAdapter() {
     private val TAG = "NasaImageViewPagerAdapt"
 
