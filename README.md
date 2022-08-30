@@ -14,7 +14,7 @@
 * Used Kotlin language along with ViewModel,Dagger Framwork,Dot Lobrary,ViewPage and retrofit for n/w call
 
 ## APP Snapshots:
-![](doc/1.png)
+![](app/doc/1.png)
 ![](doc/2.png)
 ![](doc/3.png)
 
