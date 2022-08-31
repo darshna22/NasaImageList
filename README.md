@@ -11,7 +11,7 @@
 * This screen displays the full size image along with the metadata like title, description, etc. The user should also be able to swipe through images.
 
 ## Technical Description:
-* Used Kotlin language along with ViewModel,Dagger Framwork,Dot Lobrary,ViewPage and retrofit for n/w call
+* Used Kotlin language along with ViewModel,Dagger Framwork,Dot Library,ViewPager and retrofit for n/w call
 
 ## APP Snapshots:
 ![](app/doc/1.png)
