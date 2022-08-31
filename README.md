@@ -14,9 +14,9 @@
 * Used Kotlin language along with ViewModel,Dagger Framwork,Dot Library,ViewPager and retrofit for n/w call
 
 ## APP Snapshots:
-<img src="app/doc/1.png" width="300" height="600">
-<img src="app/doc/2.png" width="300" height="600">
-<img src="app/doc/3.png" width="300" height="600">
+<img src="app/doc/1.png" width="300" height="600">  <img src="app/doc/2.png" width="300" height="600"> <img src="app/doc/3.png" width="300" height="600">
+
+
 
 
 
